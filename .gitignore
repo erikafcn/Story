@@ -1,0 +1,5 @@
+chap3.txt
+chap2.txt
+
+# Comment: these two files will be ignored when typing: git add .
+# you can also ignore all files with a certain extension by typing: *.txt (with .txt extension, for example)
